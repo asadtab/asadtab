@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asad Tabak (@asadtab)
-- 👀 I’m interested in C#, C++, C, PHP, MySQL, PLCs, Real Time Embedded Systems, Electronics
+- 👀 I’m interested in C#, C++, C, PHP, MySQL, Web Development, PLCs, Real Time Embedded Systems, Electronics
 - 🌱 I’m currently learning C#, MySQL, Electronics
 
 
