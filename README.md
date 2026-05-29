@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Asad Tabak (@asadtab)
+# Zdravo, ja sam Asad 👋
+
+Softverski developer sa pozadinom iz elektrotehnike. Fokusiran na backend, sistemske integracije, automatizaciju i pouzdana rješenja.
+
+**Tehnologije:** .NET, Flutter, Docker, MySQL, PostgreSQL, MQTT, OPC UA, Node-RED.
 
 
 
