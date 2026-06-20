@@ -1,6 +1,6 @@
 # Zdravo, ja sam Asad 👋
 
-Softvare developer sa pozadinom iz elektrotehnike. Fokusiran na backend, sistemske integracije, automatizaciju i pouzdana rješenja.
+Softver developer sa pozadinom iz elektrotehnike. Fokusiran na backend, sistemske integracije i automatizaciju.
 
 **Tehnologije:** .NET, Flutter, Docker, MySQL, PostgreSQL, MQTT, OPC UA, Node-RED.
 
@@ -8,7 +8,7 @@ Softvare developer sa pozadinom iz elektrotehnike. Fokusiran na backend, sistems
 
 Hello, I'm Asad 👋
 
-I'm a software developer with an electrical technician background. Focused on backend development, system integrations, automation, and building reliable solutions.
+I'm a software developer with an electrical technician background. Focused on backend development, system integrations and automation.
 
 **Technologies:** .NET, Flutter, Docker, MySQL, PostgreSQL, MQTT, OPC UA, Node-RED.
 
